@@ -1,5 +1,5 @@
 # Dream Slayers
-This eas made by Team Dream Slayers during smart india hackathon , 2019 .
+This was the hackathon project made by Team Dream Slayers during smart india hackathon , 2019 .
 ## Functionality
 
 > Machine learning model for predicting optimal velocity to avoid collision.
