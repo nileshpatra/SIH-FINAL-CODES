@@ -29,7 +29,7 @@ This was the hackathon project made by Team Dream Slayers during smart india hac
 
 <b> MY CONTRIBUTION : DEVELOPING MACHINE LEARNING ALGORITHM , WRITING PYGAME CODE , DEPLOYING THE MODEL , WRITING SECOND ALGORITHM FOR TESTING</b>
 The UI of the final app:
-<img src"https://github.com/nileshpatra/SIH-FINAL-CODES/blob/master/ss_images/1.jpeg"><br>
+<img src="https://github.com/nileshpatra/SIH-FINAL-CODES/blob/master/ss_images/1.jpeg"><br>
 <img src="https://github.com/nileshpatra/SIH-FINAL-CODES/blob/master/ss_images/2.jpeg"><br>
 <img src="https://github.com/nileshpatra/SIH-FINAL-CODES/blob/master/ss_images/3.jpeg"><br>
 <img src="https://github.com/nileshpatra/SIH-FINAL-CODES/blob/master/ss_images/4.jpeg"><br>
