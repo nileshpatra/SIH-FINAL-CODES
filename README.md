@@ -27,3 +27,4 @@ This was the hackathon project made by Team Dream Slayers during smart india hac
 <li>minSDK version19</li>
 </ul>
 
+<b> MY CONTRIBUTION : DEVELOPING MACHINE LEARNING ALGORITHM , WRITING PYGAME CODE , DEPLOYING THE MODEL , WRITING SECOND ALGORITHM FOR TESTING</b>
