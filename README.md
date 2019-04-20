@@ -32,5 +32,5 @@ The UI of the final app:
 <img src="https://github.com/nileshpatra/SIH-FINAL-CODES/blob/master/ss_images/1.jpeg"><br>
 <img src="https://github.com/nileshpatra/SIH-FINAL-CODES/blob/master/ss_images/2.jpeg"><br>
 <img src="https://github.com/nileshpatra/SIH-FINAL-CODES/blob/master/ss_images/3.jpeg"><br>
-<img src="https://github.com/nileshpatra/SIH-FINAL-CODES/blob/master/ss_images/4.jpeg"><br>
+<img src="https://github.com/nileshpatra/SIH-FINAL-CODES/blob/master/ss_images/4.png"><br>
 <img src="https://github.com/nileshpatra/SIH-FINAL-CODES/blob/master/ss_images/5.png"><br>
