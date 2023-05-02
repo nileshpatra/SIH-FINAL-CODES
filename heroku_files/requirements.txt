@@ -1,7 +1,7 @@
 absl-py==0.7.0
 astor==0.7.1
 Click==7.0
-Flask==1.0.2
+Flask==2.2.5
 gast==0.2.2
 grpcio==1.19.0
 gunicorn==19.9.0
